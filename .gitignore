@@ -1,0 +1,7 @@
+# Keep raw Kaggle data out of GitHub
+data/raw/*
+!data/raw/.gitkeep
+
+# Optional: ignore Power BI cache/temp
+*.pbix
+*.pbi*
